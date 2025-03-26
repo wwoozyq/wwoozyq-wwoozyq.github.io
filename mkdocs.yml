@@ -1,6 +1,14 @@
 site_name: 小茗同学的芝士库
 site_url: https://wwoozyq.github.io/wwoozyq-wwoozyq.github.io/
 site_author: 你的名字
+
+nav: 
+  - 首页: index.md
+  - 人工智能:
+    - 0.0人工智能基础知识: AI/0.0.md  #.md文件的相对路径
+
+
+
 theme:
   name: material #主题
   palette:
